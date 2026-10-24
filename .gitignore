@@ -1,0 +1,8 @@
+# Project exclude paths
+/node_modules/
+/node_modules/@electron-internal/extract-zip/
+/node_modules/@types/node/LICENSE
+/node_modules/@types/node/README.md
+/node_modules/electron/
+/node_modules/undici-types/LICENSE
+/node_modules/undici-types/README.md

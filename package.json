@@ -1,0 +1,12 @@
+{
+  "name": "dayflow-desktop",
+  "version": "1.0.0",
+  "description": "DayFlow Desktop Application",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.0.0"
+  }
+}
